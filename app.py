@@ -1,8 +1,9 @@
-from src.mlproject.logger import logging
+from src import logging
 
 
 
 
 if __name__=="__main__":
-    logging.info("the excution has been done properly")
+    logging.info("The execution has started")
+
 
