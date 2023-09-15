@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="ML_Project"
+project_name="mlproject"
 
 
 list_of_files=[
