@@ -1,4 +1,5 @@
-from src.ML_Project import logging
+from src.mlproject.logger import logging
+
 
 
 

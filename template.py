@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="mlproject"
+project_name="card_fraud_detection"
 
 
 list_of_files=[
